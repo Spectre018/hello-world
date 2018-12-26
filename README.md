@@ -1,2 +1,2 @@
 # hello-world
-hey you are AWESOME.
+hey you are awesome.
